@@ -2,6 +2,16 @@
 webpage using PIE principles, and maybe waffles
 http://edison.seattlecentral.edu/~psoukup/itc134fl17-waffle-pie/index.html
 
+<h1>>Machine Learning and its impact on jobs</h1>
+<oL>
+	<li>Introduction</li>
+	<li>Examples</li>
+	<li>Process</li>
+	<li>Types</li>
+	<li>Effects on the Job Market</li>
+</oL>
+
+
 # Outline
 
 <head>
