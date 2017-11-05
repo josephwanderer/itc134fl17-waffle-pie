@@ -1,0 +1,74 @@
+/*BIG STYLES*/
+
+html {
+    background-color:#ccc;
+}
+
+div.wrapper{
+    background-color:#fff;
+    width:80%;
+    margin:0 auto;
+    overflow:auto;
+}
+
+h1 {
+    padding:0 15px;
+    text-align:center;
+}
+h2, h3 p {
+    padding:0 12px;
+}
+a {
+    text-decoration:none;
+}
+
+footer{
+    text-align:center;
+    padding:2%;
+    background-color:ghostwhite;
+    clear:both;
+}
+/*responsive*/
+
+/*desktop and tabblet*/
+/*@media all and (min-width:500){
+    section{
+        width:65%;
+        float:left;
+        background-color:red;
+        min-height:300px;
+    }
+    
+    aside{
+        width:30%;
+        float:right;
+        background-color:yellow;
+        min-height:300px;
+    }
+}
+
+@media all and (max-width:499px){
+    div.wrapper{
+        width:100%;
+    }
+}*/
+@media all and (min-width:700px){
+section{
+    width:65%;
+    padding-left:2%;
+    float:left;
+    min-height:300px;
+}
+
+aside{
+    width:30%;
+    float:right;
+    min-height:300px;
+    }
+}
+
+@media all and (max-width:699px){
+    div.wrapper{
+        width:100%;
+    }
+}
