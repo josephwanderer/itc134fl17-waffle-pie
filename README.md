@@ -1,5 +1,11 @@
 # itc134fl17-waffle-pie
-webpage using PIE principles, and maybe waffles
+A project to create a webpage about Machine learning.
+Group members: Pete Soukup, Tianyiru (Eve) Chen, Joseph Wanderer, Matthew Budd, Marianne Goldin
+
+
+The page was adapated for the web using PIE (point, illustration, example) outlining principles, and maybe waffles.
+
+Read the page here:
 http://edison.seattlecentral.edu/~psoukup/itc134fl17-waffle-pie/index.html
 
 <h1>Machine Learning and its impact on jobs</h1>
@@ -9,10 +15,11 @@ http://edison.seattlecentral.edu/~psoukup/itc134fl17-waffle-pie/index.html
 	<li>Process</li>
 	<li>Types</li>
 	<li>Effects on the Job Market</li>
+	<li>Further Thoughts</li>
 </oL>
 
 
-# Outline
+# P.I.E.-Style Outline Example
 
 <head>
 <title>Machine Learning</title>
