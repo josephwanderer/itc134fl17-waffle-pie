@@ -1,5 +1,8 @@
 # itc134fl17-waffle-pie
 A project to create a webpage about Machine learning.
+
+<br>
+<br>
 Group members: Pete Soukup, Tianyiru (Eve) Chen, Joseph Wanderer, Matthew Budd, Marianne Goldin
 
 
