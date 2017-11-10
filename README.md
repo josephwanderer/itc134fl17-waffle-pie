@@ -23,12 +23,6 @@ http://edison.seattlecentral.edu/~psoukup/itc134fl17-waffle-pie/index.html
 
 # P.I.E.-Style Outline Example
 
-<head>
-<title>Machine Learning</title>
-</head>
-
-<Article>
-
 <h1>Machine Learning</h1>
 
 
